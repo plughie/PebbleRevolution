@@ -208,12 +208,12 @@
       },
     {
       "name": "BLUETOOTH_DISCONNECTED",
-      "file": "bluetooth_disconnected.png",
+      "file": "images/bluetooth_disconnected.png",
       "type": "png"
     },
     {
       "name": "BLUETOOTH_CONNECTED",
-      "file": "bluetooth_connected.png",
+      "file": "images/bluetooth_connected.png",
       "type": "png"
     }
     ]
